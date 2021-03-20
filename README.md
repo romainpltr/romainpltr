@@ -1,4 +1,4 @@
-
+<p align="center">
 [![](https://raw.githubusercontent.com/romainpltr/romainpltr/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--START_SECTION:waka-->
@@ -12,3 +12,4 @@ No Activity tracked this Week
 - [Sending images from gallery to Web Service using SOAP](https://stackoverflow.com/questions/7545352/sending-images-from-gallery-to-web-service-using-soap)
 <!-- BLOG-POST-LIST:END -->
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+</p>
