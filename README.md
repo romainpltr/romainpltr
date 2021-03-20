@@ -1,4 +1,4 @@
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=romainpltr&description=[description]&image=[image_url])
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=romainpltr&description=test&image=https://avatars.githubusercontent.com/u/14335973?s=400&u=35d35402cc01a65dc4882cbf03f66fd2ce67668a&v=4)
 [![](https://raw.githubusercontent.com/romainpltr/romainpltr/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--START_SECTION:waka-->
