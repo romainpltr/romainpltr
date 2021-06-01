@@ -8,10 +8,8 @@ My name is Romain, i'm from Troyes in France.
 
 <!--START_SECTION:waka-->
 ```text
-PHP          4 hrs 45 mins   ████████████████████░░░░░   79.45 % 
-Twig         48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-YAML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+SCSS       1 hr 41 mins    ████████████████████░░░░░   79.58 % 
+HTML       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
