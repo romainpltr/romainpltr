@@ -8,8 +8,8 @@ My name is Romain, i'm from Troyes in France.
 
 <!--START_SECTION:waka-->
 ```text
-SCSS       1 hr 41 mins    ████████████████████░░░░░   79.58 % 
-HTML       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+SCSS       1 hr 41 mins    ████████████████████░░░░░   79.97 % 
+HTML       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 <!--END_SECTION:waka-->
