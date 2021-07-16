@@ -1,4 +1,4 @@
-# Welcome to my Github account
+# Romain POULTIER - Web Developer based in France (for now)
 
 Hi,
 
