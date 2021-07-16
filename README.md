@@ -1,4 +1,4 @@
-# Romain POULTIER - Web Developer based in France (for now)
+# Romain POULTIER - Web Developer
 
 Hi,
 
