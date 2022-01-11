@@ -12,6 +12,10 @@ Here you can see my different project and some other works.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP          2 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   37.97 % 
+Vue.js       1 hr 52 mins    ████████▓░░░░░░░░░░░░░░░░   34.21 % 
+YAML         34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JavaScript   28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 ```
 <!--END_SECTION:waka-->
