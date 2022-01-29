@@ -12,10 +12,8 @@ Here you can see my different project and some other works.
 
 <!--START_SECTION:waka-->
 ```text
-PHP              3 hrs 13 mins   ██████████████░░░░░░░░░░░   55.69 % 
-Smarty           45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-SCSS             41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-YAML             29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-GitIgnore file   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+PHP              1 hr 36 mins    █████████████████████░░░░   83.47 % 
+Smarty           13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 <!--END_SECTION:waka-->
