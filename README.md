@@ -12,8 +12,6 @@ Here you can see my different project and some other works.
 
 <!--START_SECTION:waka-->
 ```text
-PHP              1 hr 36 mins    █████████████████████░░░░   83.47 % 
-Smarty           13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
