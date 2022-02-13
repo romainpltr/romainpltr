@@ -12,10 +12,10 @@ Here you can see my different project and some other works.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 9 mins    █████████████░░░░░░░░░░░░   52.03 % 
-Vue.js       4 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-PHP          1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-YAML         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-TypeScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JavaScript   13 hrs          █████████████░░░░░░░░░░░░   52.00 % 
+Vue.js       8 hrs           ████████░░░░░░░░░░░░░░░░░   31.99 % 
+PHP          1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+YAML         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+TypeScript   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
