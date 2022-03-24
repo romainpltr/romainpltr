@@ -1,8 +1,8 @@
-# Romain POULTIER - Web Developer
+# Romainpltr - Web Developer
 
 Hi,
 
-I'm Romain POULTIER a french web developer.
+I'm romainpltr a french web developer.
 
 Here you can see my different project and some other works.
 
