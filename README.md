@@ -13,7 +13,12 @@ Here you can see my different project and some other works.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text         2 mins          ████████████████░░░░░░░░░   64.35 %
+JSON         0 secs          ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
+JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Env File     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
