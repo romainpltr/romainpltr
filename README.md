@@ -13,12 +13,12 @@ Here you can see my different project and some other works.
 <!--START_SECTION:waka-->
 
 ```text
-Text         2 mins          ████████████████░░░░░░░░░   64.35 %
-JSON         0 secs          ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Env File     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Vue.js       1 hr 58 mins    ███████████▒░░░░░░░░░░░░░   45.43 %
+YAML         1 hr 25 mins    ████████▒░░░░░░░░░░░░░░░░   32.98 %
+TypeScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+JSON         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Twig         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
