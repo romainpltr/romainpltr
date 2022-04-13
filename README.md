@@ -13,12 +13,12 @@ Here you can see my different project and some other works.
 <!--START_SECTION:waka-->
 
 ```text
-PHP        5 mins          █████████▓░░░░░░░░░░░░░░░   38.67 %
-INI        4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
-Text       3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.29 %
-JSON       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-XML        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TypeScript      1 hr 3 mins     ███████████░░░░░░░░░░░░░░   43.65 %
+Text            39 mins         ███████░░░░░░░░░░░░░░░░░░   27.34 %
+JSON            19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+.env file       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+JavaScript      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+YAML            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
