@@ -13,9 +13,7 @@ Here you can see my different project and some other works.
 <!--START_SECTION:waka-->
 
 ```text
-PHP    2 mins          ████████████████████▒░░░░   80.73 %
-Text   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-JSON   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
