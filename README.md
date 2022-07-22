@@ -13,12 +13,12 @@ Here you can see my different project and some other works.
 <!--START_SECTION:waka-->
 
 ```text
-PHP              12 hrs 2 mins   ██████████████████░░░░░░░   72.05 %
-YAML             2 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-JSON             47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Twig             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-JavaScript       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Text             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+PHP              17 hrs 4 mins   ██████████████████▓░░░░░░   74.65 %
+YAML             3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+JSON             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+JavaScript       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Twig             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Text             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
