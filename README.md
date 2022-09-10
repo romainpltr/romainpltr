@@ -13,9 +13,9 @@ Here you can see my different project and some other works.
 <!--START_SECTION:waka-->
 
 ```text
-Java             4 mins          ████████████████████████░   96.43 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Twig             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Java             7 mins          ████████████████████████▒   97.61 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Twig             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
