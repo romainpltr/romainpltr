@@ -13,7 +13,10 @@ Here you can see my different project and some other works.
 <!--START_SECTION:waka-->
 
 ```text
-Java   2 mins          █████████████████████████   100.00 %
+PHP         2 mins          ██████████████████████▓░░   90.95 %
+.env file   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Twig        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Bash        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
