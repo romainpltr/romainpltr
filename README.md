@@ -14,7 +14,7 @@ Here you can see my different project and some other works.
 
 ```text
 Java   23 mins         ████████████████████████▓   99.09 %
-Twig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Twig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
