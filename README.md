@@ -13,8 +13,7 @@ Here you can see my different project and some other works.
 <!--START_SECTION:waka-->
 
 ```text
-Java             1 hr 18 mins    █████████████████████████   99.92 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
