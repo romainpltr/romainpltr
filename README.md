@@ -13,7 +13,7 @@ Here you can see my different project and some other works.
 <!--START_SECTION:waka-->
 
 ```text
-Java   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
